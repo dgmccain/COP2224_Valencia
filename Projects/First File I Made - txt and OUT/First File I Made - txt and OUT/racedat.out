@@ -1,0 +1,8 @@
+Enter athlete identifier followed by the 3 completion times for running, swimming, and biking.
+Do this 4 times for each of the 4 athletes with time entered in minutes...
+A 31 27 52 B 29 31 58 C 35 36 51 D 34 36 62 
+Athlete A completed the race in a total of 110 minutes
+Athlete B completed the race in a total of 118 minutes
+Athlete C completed the race in a total of 122 minutes
+Athlete D completed the race in a total of 132 minutes
+The average total time for completing the race is 120.5 minutes

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\david\desktop\school - spring 2019\cop 2224\finding the median of an array\finding the median of an array\source.cpp(9): warning C4101: 'j': unreferenced local variable
+c:\users\david\desktop\school - spring 2019\cop 2224\finding the median of an array\finding the median of an array\source.cpp(57): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Finding the Median of an Array.vcxproj -> C:\Users\david\Desktop\School - Spring 2019\COP 2224\Finding the Median of an Array\Debug\Finding the Median of an Array.exe

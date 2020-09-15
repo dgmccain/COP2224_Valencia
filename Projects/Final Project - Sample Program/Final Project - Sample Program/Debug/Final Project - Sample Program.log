@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\david\desktop\school - spring 2019\cop 2224\final project - sample program\final project - sample program\source.cpp(28): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\david\desktop\school - spring 2019\cop 2224\final project - sample program\final project - sample program\source.cpp(31): warning C4101: 'recNum': unreferenced local variable
+  Final Project - Sample Program.vcxproj -> C:\Users\david\Desktop\School - Spring 2019\COP 2224\Final Project - Sample Program\Debug\Final Project - Sample Program.exe

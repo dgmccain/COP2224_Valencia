@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\david\desktop\school - spring 2019\cop 2224\exceptions with char data\exceptions with char data\source.cpp(24): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\david\desktop\school - spring 2019\cop 2224\exceptions with char data\exceptions with char data\source.cpp(22): warning C4715: 'getNum': not all control paths return a value
+  Exceptions with Char Data.vcxproj -> C:\Users\david\Desktop\School - Spring 2019\COP 2224\Exceptions with Char Data\Debug\Exceptions with Char Data.exe
