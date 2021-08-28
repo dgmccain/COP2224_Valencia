@@ -1,0 +1,26 @@
+How to covert user input to all lowercase...
+
+in C# use .ToLower() at the end of user input.
+
+
+Example...
+
+string answer;
+WriteLine("type 'yes' to continue...");
+answer = ReadLine().ToLower();
+
+...now even if the user types 'YES' it should be stored as 'yes'.
+
+
+
+C++ program implementation...
+*HAVE to use "#include <algorithm>" to work...
+
+string answerKey;
+cout << "Enter your name: ";
+cin >> name;
+std::transform(name.begin(), name.end(), name.begin(), ::tolower);
+cout << "Your name is " << name << endl;
+
+Potential C++ implementation...
+Look into possibly evaluating char types instead of (or in addition to) transforming string types...
